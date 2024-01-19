@@ -9,7 +9,7 @@
 
 # Introduction to GitHub
 
-_Get started using GitHub in less than an hour._
+For this, I just followed the steps and waited for the readme to refresh. I didn't have any issues with this and it definetly helped me understand some basic github skills.
 
 </header>
 
